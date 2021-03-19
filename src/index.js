@@ -9,7 +9,13 @@ const customStyle = {
   color: "red",
   fontSize: "20px",
   border: "1px solid black"
-}
+};
+
+if ((1+1)=== 2) {
+  customStyle.color ="green";
+  customStyle.textAlign="center";
+};
+
 
 ReactDOM.render(
   <div>
