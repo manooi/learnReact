@@ -12,12 +12,9 @@ code {
     monospace;
 }
 
-div  {
-  color: red;
-}
 
 .heading {
   font-size: 50px;
   font-weight: bold;
-  border-bottom: 5px soli black;
+  border-bottom: 5px solid black;
 }
